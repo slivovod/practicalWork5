@@ -1,0 +1,5 @@
+numbers = input()
+list = numbers.split(",")
+cort = tuple(list)
+print(list)
+print(cort)
